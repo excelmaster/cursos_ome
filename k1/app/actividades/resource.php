@@ -101,7 +101,7 @@
       <div class="container-fluid">        
         <div class="row">
           <div class="col-xl-12">
-          <iframe src="https://mdl.mundoeducativodigital.com/mod/hvp/embed.php?id=<?php echo $_GET['id']; ?>" width="838" height="496" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://mdl.mundoeducativodigital.com/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+          <iframe src="https://mdl.mundoeducativodigital.com/mod/resource/view.php?id=<?php echo $_GET['id']; ?>" width="838" height="496" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://mdl.mundoeducativodigital.com/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
           </div>        
         </div> 
       </div>

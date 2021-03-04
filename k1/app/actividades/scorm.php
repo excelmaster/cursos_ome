@@ -34,7 +34,7 @@
       <li class="nav-item"><h1>LESSON 1 - ACTIVITY 1</h1></li>
       <li class="nav-item"><img class="img-fluid" src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/bienvenido a nuestro mundo marino.gif" alt="">            </li>
       <li class="nav-item">
-      <a href="../lecciones_k1.html"><img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/volver_leccion.gif"></a>
+      <a href="actividad_1.html"><img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/volver_actividad.gif"></a>
       </li>
     </ul>
     <!-- Right navbar links -->

@@ -140,7 +140,7 @@
             <div class="col sm-3">
               <div class="src_2">
                 <audio id="myAudio" controls autoplay preload="auto">
-                  <source src="../assets/sound/sound_body.mpeg" type="audio/mpeg">                  
+                  <source src="../assets/sound/sound_body_rdc.mp3" type="audio/mpeg">                  
                   Your browser does not support the audio element.
                 </audio><br>
               </div>
@@ -157,8 +157,8 @@
         </button>  
       </footer>
   <!-- Control Sidebar -->
-  <aside class="control-sidebar control-sidebar-dark">
-    <!-- Control sidebar content goes here -->
+  <aside class="control-sidebar control-sidebar-">
+    <!-- Control sidebar content goes here -->dark
   </aside>  
   <!-- /.control-sidebar -->
 </div>
@@ -194,14 +194,14 @@
             }
           }
 
-         var myAudio = document.getElementById("myAudio");
-         myAudio.volume=.20;
-
-         /* if (myAudio.paused) {             
+        var myAudio = document.getElementById("myAudio");
+        myAudio.volume=.20;
+        myaudio.play();
+         if (myAudio.paused) {             
             myAudio.play(); 
           } else { 
             myAudio.pause(); 
-          }*/
+          }
           
         </script>
         

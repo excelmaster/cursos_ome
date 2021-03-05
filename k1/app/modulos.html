@@ -124,12 +124,12 @@
           <div class="row float-right">
             <div class="col sm-3">
               <div class="src_4">
-                <img src="../assets/img/4211139.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
+                <img src="../assets/img/no_volume.PNG" id="novolume" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
               </div>
             </div>
             <div class="col sm-3">
               <div class="src_3">
-                <img src="../assets/img/Underwater_world_with_funny_fish_background.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
+                <img src="../assets/img/volume.PNG" id="volume"  class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
               </div>
             </div>
             <div class="col sm-3">
@@ -139,7 +139,10 @@
             </div>
             <div class="col sm-3">
               <div class="src_2">
-                <img src="../assets/img/3583687p.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
+                <audio id="myAudio" controls autoplay>
+                  <source src="../assets/sound/sound_body.mpeg" type="audio/mpeg">                  
+                  Your browser does not support the audio element.
+                </audio><br>
               </div>
             </div>             
               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">
@@ -190,7 +193,18 @@
               btn.innerHTML = "Play";
             }
           }
+
+         var myAudio = document.getElementById("myAudio");
+         myAudio.volume=.20;
+
+         /* if (myAudio.paused) {             
+            myAudio.play(); 
+          } else { 
+            myAudio.pause(); 
+          }*/
+          
         </script>
+        
         
 </body>
 </html>

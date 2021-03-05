@@ -31,7 +31,7 @@
           <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/tortuga.gif"  style="width: 2cm; height: 1cm; ">
         </a>
       </li>
-      <li class="nav-item"><h1><?php echo 'LESSON '.$_GET['lesson'].' - ACTIVITY '.$_GET['actividad']; ?> </h1></li>
+      <li class="nav-item"><h1><?php echo 'LESSON '.$_GET['lesson'].' - ACTIVITY '.$_GET['actividad']; ?></h1></li>
       <li class="nav-item"><img class="img-fluid" src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/bienvenido a nuestro mundo marino.gif" alt="">            </li>
       <li class="nav-item">
       <a href="actividad_<?php echo $_GET['lesson']; ?>.html"><img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/volver_actividad.gif"></a>

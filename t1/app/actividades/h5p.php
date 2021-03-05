@@ -13,12 +13,12 @@
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/css/modules.css">  
 </head>
-<body class="hold-transition sidebar-mini layout-footer-fixed"  >
+<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url('../../assets/img/patineta.jpg');" >
 <!-- video background -->
-<video autoplay muted loop id="myVideo">
+<!-- <video autoplay muted loop id="myVideo">
   <source src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/video_back.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
-</video>
+</video> -->
 
 <!-- Site wrapper -->
 <div class="wrapper">

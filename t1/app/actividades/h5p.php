@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/css/modules.css">  
 </head>
-<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url('../../assets/img/patineta.jpg');" >
+<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url('../../assets/img/034 - copia.jpg');" >
 <!-- video background -->
 <!-- <video autoplay muted loop id="myVideo">
   <source src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/video_back.mp4" type="video/mp4">
@@ -75,7 +75,7 @@
                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/pdf.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
                  <div class="src_2">
-                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/chica casco.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/diccionario.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
                  <div class="src_3">
                    <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/moto gipao.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">

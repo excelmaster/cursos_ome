@@ -13,9 +13,9 @@
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/css/modules.css">  
 </head>
-<body class="hold-transition sidebar-mini layout-footer-fixed " style="background-image:url("<?php echo dirname($_SERVER['REQUEST_URI'],3).'/assets/img/pdf.jpg'; ?>)  >
-  
+<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url('../../assets/img/fondo body.jpg');" >
 <!-- video background -->
+
 
 <!-- Site wrapper -->
 <div class="wrapper">
@@ -75,10 +75,10 @@
                    <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/diccionario.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
                  <div class="src_3">
-                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/f1.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/moto enduro anaranjada.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
                  <div class="src_4">
-                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/tenista.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/moto3.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
                  
               </div>
@@ -105,16 +105,16 @@
     </section> 
      <!--  <footer class="main-footer" style="background-color : transparent">
         <div id="mySidepanel" class="sidepanel">
-          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/submarinosqui1.gif " class="img-thumbnail img-fluid" style="width: 60px; height: 60px;" alt=""></a>
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><img src="<?php //echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/submarinosqui1.gif " class="img-thumbnail img-fluid" style="width: 60px; height: 60px;" alt=""></a>
         <div class="row">
           <div class="src_2">
-            <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/3583687p.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+            <img src="<?php //echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/3583687p.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
           </div>
           <div class="src_3">
-            <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/Underwater_world_with_funny_fish_background.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+            <img src="<?php// echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/Underwater_world_with_funny_fish_background.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
           </div>
           <div class="src_4">
-            <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/4211139.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+            <img src="<?php// echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/4211139.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
           </div>
         </div>
       </div> -->

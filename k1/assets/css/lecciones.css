@@ -1,0 +1,52 @@
+.sidepanel  {
+    width: 30px;
+    position: fixed;
+    z-index: 1;
+    height: 550px;
+    top: 50;
+    left: 5;
+    background-color: transparent;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 3px;
+  }
+  
+  .sidepanel a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    font-size: 0px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+ 
+ 
+  .openbtn {
+    font-size: 15px;
+    cursor: pointer;
+    background-color: red;
+    color: transparent;
+    padding: 9px 9px;
+    border-color: transparent;
+  }
+  
+ 
+  
+
+  .card {
+    background-color: rgb(255, 94, 0);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}

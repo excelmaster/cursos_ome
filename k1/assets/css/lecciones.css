@@ -80,7 +80,7 @@
     background-color: transparent;
     overflow-x: hidden;
     transition: 0.5s;
-    padding-top: 3px;
+    padding-top: 8px;
   }
   
   .sidepanel a {
@@ -95,7 +95,7 @@
  
  
   .openbtn {
-    font-size: 15px;
+    font-size: 1px;
     cursor: pointer;
     background-color: transparent;
     color: transparent;

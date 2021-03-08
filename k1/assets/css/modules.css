@@ -17,7 +17,9 @@
       
   }
 
-  
+  .fichas {
+    filter: grayscale(100%);
+  }
   
   .src_1 { grid-area: src_1; }
   

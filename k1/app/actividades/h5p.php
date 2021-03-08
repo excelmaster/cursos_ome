@@ -71,9 +71,17 @@
             <a href="#" class="nav-link">
               <div class="sidebar">      
                
-                <div class="src_1">
-                  <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/tras.png" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                 </div>
+              <div class="col sm-3">              
+              <audio id="myAudio" controls autoplay preload="auto" hidden>
+                <source src="../assets/sound/sound_body_rdc.mp3" type="audio/mpeg">                  
+                Your browser does not support the audio element.
+              </audio><br>              
+            </div>  
+            <div class="col sm-6">              
+                <a  class="button" onclick="sonido()" style="width: 100px;" >
+                  <img src="../assets/img/no_volume.PNG" id="volume" class="img-thumbnail img-fluid" style="width: 70px; height: 70px;  ">
+                </a>
+            </div>
                  <div class="src_2">
                    <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/3583687p.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
@@ -150,6 +158,23 @@
         
         function closeNav() {
           document.getElementById("mySidepanel").style.width = "0px";
+        }
+
+        var myAudio = document.getElementById("myAudio");
+        var icono = document.getElementById("volume");
+        myAudio.volume=.10;
+        myAudio.play();
+        myAudio.loop=true;
+
+        function sonido(){
+          if (myAudio.paused) {             
+            icono.setAttribute("src","../assets/img/no_volume.PNG");
+            myAudio.play();             
+            myAudio.loop=true;
+          } else { 
+            icono.setAttribute("src","../assets/img/volume.PNG");
+            myAudio.pause(); 
+          }
         }
         </script> 
         <script src="https://mdl.mundoeducativodigital.com/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>

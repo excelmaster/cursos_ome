@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="../assets/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="../assets/css/modules.css">  git config http.postBuffer 524288000
 </head>
-<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url(../assets/img/034\ -\ copia.jpg);">
+<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url(../assets/img/fondo_body.jpg);">
 
 
 <!-- Site wrapper -->
@@ -24,7 +24,7 @@
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button">
-          <img src="../assets/img/tires1.jpg "  style="width: 2cm; height: 1cm; " alt="" class="img-circle"></a>
+          <img src="../assets/img/manoholograma.gif"  style="width: 5cm; height: 2cm; " alt="" class="img-circle"></a>
       </li>
     </ul>
     <!-- Right navbar links -->
@@ -61,17 +61,19 @@
             <a href="#" class="nav-link">
               <div class="sidebar">      
                 <div class="src_1">
-                  <img src="../assets/img/pdf.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
+                  <img src="../assets/img/mano.gif" class="img-thumbnail img-circle" style="width: 100px; height: 100px; ">
                  </div>
-                 <div class="src_2">
-                   <img src="../assets/img/diccionario.jpg" class="img-thumbnail img-circle" style="width: 100px; height: 100px; ">
-                 </div>
-                 <div class="src_3">
-                   <img src="../assets/img/f1.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
-                 </div>
-                 <div class="src_4">
-                   <img src="../assets/img/moto4.jpg" class="img-thumbnail img-circle" style="width: 100px; height: 100px; ">
-                 </div>
+              </div>
+              <div class="row">
+                <div class="src_2">
+                 <img src="../assets/img/diccionario.jpg" class="img-thumbnail img-circle" style="width: 100px; height: 100px; ">
+               </div>
+              </div>
+              <div class="row">
+                <div class="src_3">
+                  <img src="../assets/img/musica.gif" class="img-thumbnail img-circle" style="width: 100px; height: 100px; ">
+                </div>
+                
               </div>
             </a>
           </li>
@@ -85,7 +87,7 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <img class="img-circle" src="../assets/img/bienvenidos mundo extremo.gif" alt="">
+            <img class="img-fluid" src="../assets/img/bienvenidos mundo extremo.gif" alt="">
           </div>
         </div>
       </div><!-- /.container-fluid -->
@@ -351,51 +353,97 @@
           </div>
          </div>
     </section> 
-      <footer class="main-footer" style="background-color : transparent">
-        <div id="mySidepanel" class="sidepanel">
-          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"><img src="../assets/img/moto gipao.jpg " class="img-thumbnail img-circle" style="width: 80px; height: 80px; " alt=""></a>
-        <div class="row">
-          <div class="src_2">
-            <img src="../assets/img/fondo body.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
+    <footer class="main-footer" style="background-color : transparent">
+      <div id="mySidepanel" class="sidepanel">
+        <div class="row float-left">
+          <div class="col sm-6">              
+              <a  class="button" onclick="sonido()" style="width: 100px;" >
+                <img src="../assets/img/vocina.gif" id="volume" class="img-thumbnail img-fluid" style="width: 70px; height: 70px;  ">
+              </a>
           </div>
-          <div class="src_3">
-            <img src="../assets/img/ski1.jpg" class="img-thumbnail img-circle" style="width: 100px; height: 100px; ">
+         
+          <!-- <div class="col sm-2">
+            <div class="src_2">
+              <img src="../assets/img/volume.PNG" id="volume"  class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
+            </div>
+          </div> -->
+        <!--   <div class="col sm-3">
+            <img src="../assets/img/3583687p.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">              
+          </div> -->
+          <div class="col sm-3">              
+            <audio id="myAudio" controls autoplay preload="auto" hidden>
+              <source src=".././assets/img/sonido.gif" type="audio/mpeg">                  
+              Your browser does not support the audio element.
+            </audio><br>              
+          </div>             
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">
+              <img src="../assets/img/sonido.gif " class="img-thumbnail img-circle" style="width: 70px; height: 70px;" alt="">
+            </a>            
           </div>
-          <div class="src_4">
-            <img src="../assets/img/moto computador.jpg" class="img-thumbnail img-fluid" style="width: 100px; height: 100px; ">
-          </div>
-        </div>
       </div>
-        <h2>.</h2>
-        <h2>.</h2>
-        <button class="openbtn" onclick="openNav()">
-          <img src="../assets/img/sport roja.jpg" class="img-thumbnail img-circle" style="width: 50px; height: 50px; ">
-        </button>  
-      </footer>
-  <!-- Control Sidebar -->
-  <aside class="control-sidebar control-sidebar-dark">
-    <!-- Control sidebar content goes here -->
-  </aside>  
-  <!-- /.control-sidebar -->
+     
+      <button class="openbtn" onclick="openNav()">
+        <img src="../assets/img/sonido.gif" class="img-thumbnail img-circle" style="width: 60px; height: 60px; ">
+      </button>  
+    </footer>
+<!-- Control Sidebar -->
+<aside class="control-sidebar control-sidebar-">
+  <!-- Control sidebar content goes here -->dark
+</aside>  
+<!-- /.control-sidebar -->
 </div>
 </div>
 <!-- ./wrapper -->
-      <!-- jQuery -->
-      <script src="../assets/plugins/jquery/jquery.min.js"></script>
-      <!-- Bootstrap 4 -->
-      <script src="../assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-      <!-- AdminLTE App -->
-      <script src="../assets/dist/js/adminlte.min.js"></script>
-      <!-- AdminLTE for demo purposes -->
-      <script src="../assets/dist/js/demo.js"></script>
-        <script>
-        function openNav() {
-          document.getElementById("mySidepanel").style.width = "330px";
+    <!-- jQuery -->
+    <script src="../assets/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="../assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="../assets/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="../assets/dist/js/demo.js"></script>
+      <script>
+      function openNav() {
+        document.getElementById("mySidepanel").style.width = "450px";          
+      }
+      function closeNav() {
+        document.getElementById("mySidepanel").style.width = "0px";
+      }
+        // Get the video
+        var video = document.getElementById("myVideo");
+        // Get the button
+        var btn = document.getElementById("myBtn");
+        // Pause and play the video, and change the button text
+        function myFunction() {
+          if (video.paused) {
+            video.play();                            
+          } else {
+            video.pause();                            
+          }
         }
+        video.requestFullscreen();
+
+      var myAudio = document.getElementById("myAudio");
+      var icono = document.getElementById("volume");
+      myAudio.volume=.10;
+      myAudio.play();
+      myAudio.loop=true;
+
+      function sonido(){
+        if (myAudio.paused) {             
+          icono.setAttribute("src","../assets/img/no_volume.PNG");
+          myAudio.play();             
+          myAudio.loop=true;
+        } else { 
+          icono.setAttribute("src","../assets/img/sonido.gif");
+          myAudio.pause(); 
+        }
+      }
+      
+      var element = document.querySelector("body");
+      element.requestFullscreen();
+      
+      </script>
         
-        function closeNav() {
-          document.getElementById("mySidepanel").style.width = "0px";
-        }
-        </script>
 </body>
 </html>

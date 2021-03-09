@@ -99,9 +99,9 @@
     </section>
     <section class="content" >
       <div class="container-fluid">        
-        <div class="row">
+        <div class="row"> 
           <div class="col-xl-12">
-          <iframe src="https://mdl.mundoeducativodigital.com/mod/scorm/view.php?id=<?php echo $_GET['id']; ?>" class="embed-responsive-item" style="width: 1080px;height:550px;"></iframe>
+          <iframe src="../scorm/l<?php echo $_GET['lesson'].'/'.$_GET['lesson'].'_'.$_GET['actividad'].'/index.html'; ?>" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>
           </div>        
         </div> 
       </div>

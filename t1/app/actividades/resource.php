@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/css/modules.css">  
 </head>
-<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url('../../assets/img/034 - copia.jpg');">
+<body class="hold-transition sidebar-mini layout-footer-fixed" style="background-image: url('../../assets/img/fondo_body.jpg');">
 <!-- video background -->
 <video autoplay muted loop id="myVideo">
   <source src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/video_back.mp4" type="video/mp4">
@@ -28,7 +28,7 @@
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button">
-          <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/2.jpg"  style="width: 2cm; height: 1cm; ">
+          <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/manoholograma.gif"  style="width: 5cm; height: 2cm; ">
         </a>
       </li>
       <li class="nav-item"><h1><?php echo 'LESSON '.$_GET['lesson'].' - ACTIVITY '.$_GET['actividad']; ?> </h1></li>
@@ -71,19 +71,15 @@
             <a href="#" class="nav-link">
               <div class="sidebar">      
                
-                <div class="src_1">
-                  <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/pdf.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+              <div class="src_1">
+                  <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/mano.gif" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
                  <div class="src_2">
                    <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/diccionario.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
                  </div>
                  <div class="src_3">
-                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/moto enduro anaranjada.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                 </div>
-                 <div class="src_4">
-                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/moto3.jpg" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
-                 </div>
-                 
+                   <img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/musica.gif" class="img-thumbnail img-fluid img-circle" style="width: 100px; height: 100px; ">
+                 </div>                 
               </div>
             </a>
            

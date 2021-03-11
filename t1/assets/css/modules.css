@@ -92,8 +92,6 @@
   transition: 0.3s;
 }
 
-
-
 .openbtn {
   font-size: 1px;
   cursor: pointer;
@@ -103,12 +101,6 @@
   border-color: transparent;
 }
 
-
-
-
-
-
-
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
 position: fixed;
@@ -116,4 +108,8 @@ right: 0;
 bottom: 0;
 min-width: 100%;
 min-height: 100%;
+}
+
+.fichas {
+  filter: grayscale(100%);
 }

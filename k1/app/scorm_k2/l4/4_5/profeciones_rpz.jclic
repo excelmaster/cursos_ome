@@ -11,7 +11,7 @@
   <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
  </settings>
  <sequence>
-  <item name="1" />
+  <item id="start" name="1" />
  </sequence>
  <activities>
   <activity class="@puzzles.DoublePuzzle" name="1" code="">

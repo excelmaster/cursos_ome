@@ -11,7 +11,7 @@
   <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
  </settings>
  <sequence>
-  <item name="1" />
+  <item id="start" name="1" />
  </sequence>
  <activities>
   <activity class="@puzzles.DoublePuzzle" name="1" code="">
@@ -50,8 +50,8 @@
   </activity>
  </activities>
  <mediaBag>
-  <media name="descarga (3).jpg" file="descarga (3).jpg" />
-  <media name="Diapositiva1.JPG" file="Diapositiva1.JPG" />
+  <media name="descarga (3).jpg" file="descarga__3_.jpg" />
+  <media name="Diapositiva1.JPG" file="diapositiva1.jpg" />
  </mediaBag>
 </JClicProject>
 

@@ -3,7 +3,6 @@
  <settings>
   <title>ROM_TRANSPORTE1</title>
   <revision description="created" date="2/6/21" />
-  <description />
   <descriptors />
   <meta_langs>es</meta_langs>
   <descriptions>
@@ -36,7 +35,7 @@
   </activity>
  </activities>
  <mediaBag>
-  <media name="images (7).jpg" file="images (7).jpg" />
+  <media name="images (7).jpg" file="images__7_.jpg" />
   <media name="trans_11-resized.jpg" file="trans_11-resized.jpg" />
  </mediaBag>
 </JClicProject>

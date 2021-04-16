@@ -31,7 +31,7 @@
       <li class="nav-item"><h1><?php echo 'LESSON '.$_GET['lesson'].' - ACTIVITY '.$_GET['actividad']; ?></h1></li>
       <li class="nav-item"><img class="img-fluid" src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/bienvenidos mundo extremo.gif" alt="">            </li>
       <li class="nav-item">
-      <a href="actividad_<?php echo $_GET['lesson']; ?>.html"><img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/logo2.gif"></a>
+      <a href="actividad_<?php echo $_GET['lesson']; ?>.html"><img src="<?php echo dirname($_SERVER['REQUEST_URI'],3); ?>/assets/img/avtividades.gif"></a>
       </li>
     </ul>
     <!-- Right navbar links -->

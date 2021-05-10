@@ -95,7 +95,7 @@
       <div class="container-fluid">        
         <div class="row">
           <div class="col-xl-12">
-          <iframe src="../scorm_t2/l<?php echo $_GET['lesson'].'/'.$_GET['lesson'].'_'.$_GET['actividad'].'/index.html'; ?>" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>
+          <iframe src="../scorm_t3/l<?php echo $_GET['lesson'].'/'.$_GET['lesson'].'_'.$_GET['actividad'].'/index.html'; ?>" class="embed-responsive-item" style="width: 900px;height:550px;"></iframe>
           </div>        
         </div> 
       </div>

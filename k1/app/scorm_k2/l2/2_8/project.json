@@ -10,12 +10,12 @@
   "meta_langs": [
     "es"
   ],
-  "mainFile": "familia_rpz.jclic",
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
+  "mainFile": "familia_rpz.jclic",
   "activities": 1,
   "mediaFiles": 7,
-  "totalSize": 139677,
+  "totalSize": 140583,
   "files": [
     "606-resized.jpg",
     "diapositiva1-resized.jpg",

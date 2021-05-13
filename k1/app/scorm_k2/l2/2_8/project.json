@@ -13,7 +13,11 @@
 <<<<<<< HEAD
   "mainFile": "rompecabezas_familia.jclic",
 =======
+<<<<<<< HEAD
+>>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10
+=======
 >>>>>>> main
+>>>>>>> dev
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
   "mainFile": "familia_rpz.jclic",
@@ -23,7 +27,11 @@
   "totalSize": 139792,
 =======
   "totalSize": 140583,
+<<<<<<< HEAD
+>>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10
+=======
 >>>>>>> main
+>>>>>>> dev
   "files": [
     "606-resized.jpg",
     "favicon.ico",

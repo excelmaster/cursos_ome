@@ -11,19 +11,32 @@
     "es"
   ],
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   "mainFile": "rompecabezas_familia.jclic",
 >>>>>>> dbdb278465b643682d8ff56caf0dfb99140434d1
+=======
+  "mainFile": "rompecabezas_familia.jclic",
+=======
+>>>>>>> main
+>>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
   "mainFile": "familia_rpz.jclic",
   "activities": 1,
   "mediaFiles": 7,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "totalSize": 140583,
 =======
   "totalSize": 139792,
 >>>>>>> dbdb278465b643682d8ff56caf0dfb99140434d1
+=======
+  "totalSize": 139792,
+=======
+  "totalSize": 140583,
+>>>>>>> main
+>>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
   "files": [
     "606-resized.jpg",
     "favicon.ico",

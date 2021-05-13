@@ -57,15 +57,25 @@
  <mediaBag>
   <media name="favicon.ico" file="favicon.ico" />
   <media name="606-resized.jpg" file="606-resized.jpg" />
+<<<<<<< HEAD
 <<<<<<< HEAD:k1/app/scorm_k2/l2/2_8/familia_rpz.jclic
+=======
+<<<<<<< HEAD:k1/app/scorm_k2/l2/2_8/rompecabezas_familia.jclic
+  <media name="teen-resized.jpg" file="teen-resized.jpg" />
+=======
+>>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
   <media name="Diapositiva1-resized.jpg" file="diapositiva1-resized.jpg" />
   <media name="project-cover.jpg" file="project-cover.jpg" />
   <media name="project-thumb.jpg" file="project-thumb.jpg" />
   <media name="icon-192.png" file="icon-192.png" />
   <media name="icon-72.png" file="icon-72.png" />
+<<<<<<< HEAD
 =======
   <media name="teen-resized.jpg" file="teen-resized.jpg" />
 >>>>>>> dbdb278465b643682d8ff56caf0dfb99140434d1:k1/app/scorm_k2/l2/2_8/rompecabezas_familia.jclic
+=======
+>>>>>>> main:k1/app/scorm_k2/l2/2_8/familia_rpz.jclic
+>>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
  </mediaBag>
 </JClicProject>
 

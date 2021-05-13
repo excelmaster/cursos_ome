@@ -1,6 +1,6 @@
 {
-  "title": "rompecabezas_familia",
-  "date": "13/05/21",
+  "title": "familia_rpz3",
+  "date": "18/03/21",
   "description": {
     "es": ""
   },
@@ -10,14 +10,17 @@
   "meta_langs": [
     "es"
   ],
-  "mainFile": "rompecabezas_familia.jclic",
+  "mainFile": "familia_rpz3.jclic",
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
   "activities": 1,
   "mediaFiles": 7,
-  "totalSize": 139792,
+  "totalSize": 158403,
   "files": [
-    "606-resized.jpg",
+    "4672-resized.jpg",
+    "diapositiva3-resized.jpg",
+    "familia_rpz3.jclic",
+    "familia_rpz3.jclic.js",
     "favicon.ico",
     "icon-192.png",
     "icon-72.png",
@@ -25,9 +28,6 @@
     "index.html",
     "project-cover.jpg",
     "project-thumb.jpg",
-    "project.json",
-    "rompecabezas_familia.jclic",
-    "rompecabezas_familia.jclic.js",
-    "teen-resized.jpg"
+    "project.json"
   ]
 }

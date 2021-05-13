@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<JClicProject name="rompecabezas_familia" version="0.1.3">
+<JClicProject name="familia_rpz2" version="0.1.3">
  <settings>
-  <title>rompecabezas_familia</title>
-  <revision description="created" date="5/13/21" />
+  <title>familia_rpz2</title>
+  <revision description="created" date="3/18/21" />
   <descriptors />
   <meta_langs>es</meta_langs>
   <descriptions>
@@ -19,29 +19,29 @@
    <messages>
     <cell type="initial">
      <style>
-      <color background="0xFFFF00" />
+      <color background="0xFF00FF" />
      </style>
     </cell>
     <cell type="final">
      <style>
-      <color background="0xFFFF00" />
+      <color background="0xFF00FF" />
      </style>
      <p>¡Buen Trabajo!</p>
     </cell>
     <cell type="finalError">
      <style>
-      <color background="0xFFFF00" />
+      <color background="0xFF00FF" />
      </style>
     </cell>
    </messages>
    <settings margin="8" dragCells="true" report="true" reportActions="false">
     <container bgColor="0xC0C0C0">
-     <image name="606-resized.jpg" tiled="true" />
+     <image name="41al_jgrj_201109-resized.jpg" tiled="true" />
      <counters time="true" actions="true" score="true" />
     </container>
-    <window bgColor="0xFFFF00" border="true" />
+    <window bgColor="0xFF00FF" border="true" />
    </settings>
-   <cells rows="3" cols="3" border="true" image="teen-resized.jpg">
+   <cells rows="3" cols="3" border="true" image="Diapositiva2-resized.jpg">
     <style />
     <shaper class="@ClassicJigSaw" cols="3" rows="3" />
    </cells>
@@ -50,8 +50,8 @@
   </activity>
  </activities>
  <mediaBag>
-  <media name="606-resized.jpg" file="606-resized.jpg" />
-  <media name="teen-resized.jpg" file="teen-resized.jpg" />
+  <media name="41al_jgrj_201109-resized.jpg" file="41al_jgrj_201109-resized.jpg" />
+  <media name="Diapositiva2-resized.jpg" file="diapositiva2-resized.jpg" />
  </mediaBag>
 </JClicProject>
 

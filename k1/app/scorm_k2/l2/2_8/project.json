@@ -18,8 +18,15 @@
 =======
   "mainFile": "rompecabezas_familia.jclic",
 =======
+<<<<<<< HEAD
+>>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10
+=======
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
+=======
+>>>>>>> dev
+>>>>>>> a219bf9553629e9bd2d8a245e9ef6d5a248c065e
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
   "mainFile": "familia_rpz.jclic",
@@ -35,8 +42,15 @@
   "totalSize": 139792,
 =======
   "totalSize": 140583,
+<<<<<<< HEAD
+>>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10
+=======
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
+=======
+>>>>>>> dev
+>>>>>>> a219bf9553629e9bd2d8a245e9ef6d5a248c065e
   "files": [
     "606-resized.jpg",
     "favicon.ico",

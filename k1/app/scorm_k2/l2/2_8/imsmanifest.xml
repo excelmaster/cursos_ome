@@ -10,8 +10,15 @@
 <manifest identifier="JClic-BAE91F" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation= "http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
 =======
 <manifest identifier="JClic-E192E2" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation= "http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<<<<<<< HEAD
+>>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10
+=======
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
+=======
+>>>>>>> dev
+>>>>>>> a219bf9553629e9bd2d8a245e9ef6d5a248c065e
  <metadata> 
   <schema>ADL SCORM</schema>
   <schemaversion>1.2</schemaversion>
@@ -36,8 +43,15 @@
    <title>familia_rpz</title>
    <item identifier="ITEM_JClic-E192E2" identifierref="RES_JClic-E192E2">
     <title>familia_rpz</title>
+<<<<<<< HEAD
+>>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10
+=======
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
+=======
+>>>>>>> dev
+>>>>>>> a219bf9553629e9bd2d8a245e9ef6d5a248c065e
    </item>
   </organization>
  </organizations>
@@ -52,8 +66,15 @@
   <resource identifier="RES_JClic-BAE91F" type="webcontent" href="/index.html" adlcp:scormtype="sco"> 
 =======
   <resource identifier="RES_JClic-E192E2" type="webcontent" href="/index.html" adlcp:scormtype="sco"> 
+<<<<<<< HEAD
+>>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10
+=======
 >>>>>>> main
+<<<<<<< HEAD
 >>>>>>> 52adb9d0cadbe4d7494a3f351a795793517d925c
+=======
+>>>>>>> dev
+>>>>>>> a219bf9553629e9bd2d8a245e9ef6d5a248c065e
    <file href="606-resized.jpg"/>
    <file href="favicon.ico"/>
    <file href="icon-192.png"/>

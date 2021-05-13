@@ -1,6 +1,6 @@
 {
-  "title": "familia_rpz",
-  "date": "18/03/21",
+  "title": "rompecabezas_familia",
+  "date": "13/05/21",
   "description": {
     "es": ""
   },
@@ -10,17 +10,22 @@
   "meta_langs": [
     "es"
   ],
+<<<<<<< HEAD
+=======
+  "mainFile": "rompecabezas_familia.jclic",
+>>>>>>> dbdb278465b643682d8ff56caf0dfb99140434d1
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
   "mainFile": "familia_rpz.jclic",
   "activities": 1,
   "mediaFiles": 7,
+<<<<<<< HEAD
   "totalSize": 140583,
+=======
+  "totalSize": 139792,
+>>>>>>> dbdb278465b643682d8ff56caf0dfb99140434d1
   "files": [
     "606-resized.jpg",
-    "diapositiva1-resized.jpg",
-    "familia_rpz.jclic",
-    "familia_rpz.jclic.js",
     "favicon.ico",
     "icon-192.png",
     "icon-72.png",
@@ -28,6 +33,9 @@
     "index.html",
     "project-cover.jpg",
     "project-thumb.jpg",
-    "project.json"
+    "project.json",
+    "rompecabezas_familia.jclic",
+    "rompecabezas_familia.jclic.js",
+    "teen-resized.jpg"
   ]
 }

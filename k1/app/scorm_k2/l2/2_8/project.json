@@ -10,12 +10,20 @@
   "meta_langs": [
     "es"
   ],
+<<<<<<< HEAD
   "mainFile": "rompecabezas_familia.jclic",
+=======
+>>>>>>> main
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
+  "mainFile": "familia_rpz.jclic",
   "activities": 1,
   "mediaFiles": 7,
+<<<<<<< HEAD
   "totalSize": 139792,
+=======
+  "totalSize": 140583,
+>>>>>>> main
   "files": [
     "606-resized.jpg",
     "favicon.ico",

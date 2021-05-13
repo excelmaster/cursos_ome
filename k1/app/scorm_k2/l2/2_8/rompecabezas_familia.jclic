@@ -4,6 +4,11 @@
   <title>rompecabezas_familia</title>
   <revision description="created" date="5/13/21" />
   <descriptors />
+  <cover file="project-cover.jpg" />
+  <thumb file="project-thumb.jpg" />
+  <icon16 file="favicon.ico" />
+  <icon72 file="icon-72.png" />
+  <icon192 file="icon-192.png" />
   <meta_langs>es</meta_langs>
   <descriptions>
    <description language="es" />
@@ -50,8 +55,17 @@
   </activity>
  </activities>
  <mediaBag>
+  <media name="favicon.ico" file="favicon.ico" />
   <media name="606-resized.jpg" file="606-resized.jpg" />
+<<<<<<< HEAD:k1/app/scorm_k2/l2/2_8/rompecabezas_familia.jclic
   <media name="teen-resized.jpg" file="teen-resized.jpg" />
+=======
+  <media name="Diapositiva1-resized.jpg" file="diapositiva1-resized.jpg" />
+  <media name="project-cover.jpg" file="project-cover.jpg" />
+  <media name="project-thumb.jpg" file="project-thumb.jpg" />
+  <media name="icon-192.png" file="icon-192.png" />
+  <media name="icon-72.png" file="icon-72.png" />
+>>>>>>> main:k1/app/scorm_k2/l2/2_8/familia_rpz.jclic
  </mediaBag>
 </JClicProject>
 

@@ -65,7 +65,11 @@
   <media name="project-thumb.jpg" file="project-thumb.jpg" />
   <media name="icon-192.png" file="icon-192.png" />
   <media name="icon-72.png" file="icon-72.png" />
+<<<<<<< HEAD
 >>>>>>> b0d9cc3e307ac99086c3ee373e5460b12ed98e10:k1/app/scorm_k2/l2/2_8/familia_rpz.jclic
+=======
+>>>>>>> main:k1/app/scorm_k2/l2/2_8/familia_rpz.jclic
+>>>>>>> d934105f72462fdbb751377816c3c0ac5ae8cfa5
  </mediaBag>
 </JClicProject>
 

@@ -8,12 +8,12 @@
   "meta_langs": [
     "es"
   ],
-  "mainFile": "numbers.jclic",
+  "mainFile": "numbersM1.jclic",
   "cover": "project-cover.jpg",
   "thumbnail": "project-thumb.jpg",
-  "activities": 3,
-  "mediaFiles": 15,
-  "totalSize": 286313,
+  "activities": 4,
+  "mediaFiles": 16,
+  "totalSize": 333658,
   "files": [
     "7f20fea9af8edfd3e86fee1f099307cf-resized.jpg",
     "bagon.png",
@@ -29,8 +29,9 @@
     "icon-72.png",
     "imsmanifest.xml",
     "index.html",
-    "numbers.jclic",
-    "numbers.jclic.js",
+    "letrero_de_informacion_2-resized.jpg",
+    "numbersM1.jclic",
+    "numbersM1.jclic.js",
     "project-cover.jpg",
     "project-thumb.jpg",
     "project.json",
